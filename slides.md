@@ -23,9 +23,9 @@ drawings:
 css: unocss
 ---
 
-# Things Pete loves
+# Things Cailyn Hates
 
-A presentation on the various things that Pete loves
+A presentation on the various things that Cailyn hates
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -49,11 +49,11 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# What does Pete love?
+# What does Cailyn hate?
 
-- 📝 **Cats** - Pete loves cats
-- 🎨 **Nespresso** - Pete also loves nespresso
-- 🧑‍💻 **Sparkling water** - Pete also loves sparkling water...
+- 📝 **Animals** - Especially cats... also she killed two dogs growing up
+- 🎨 **Fun** - Cailyn hates fun. That's what they call her: Cailyn "Hates Fun" Templeton
+- 🧑‍💻 **Meat** - She used to be a vegetarian, and she's from California... sus
 
 <br>
 <br>
@@ -83,9 +83,9 @@ Here is another comment.
 
 ---
 
-# Cats
+# Animals
 
-Pete loves cats, [learn more](https://en.wikipedia.org/wiki/Cat)
+Cailyn hates animals, [learn more](https://en.wikipedia.org/wiki/Cat)
 
 ![Remote Image](https://www.pngmart.com/files/1/Cat-PNG-File.png)
 
@@ -93,7 +93,7 @@ Pete loves cats, [learn more](https://en.wikipedia.org/wiki/Cat)
 
 ---
 
-# Code
+# Also
 
 Use code snippets and get the highlighting directly![^1]
 
