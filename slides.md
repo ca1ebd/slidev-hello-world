@@ -85,7 +85,7 @@ Here is another comment.
 
 # Cats
 
-Peter loves cats, [learn more](https://en.wikipedia.org/wiki/Cat)
+Pete loves cats, [learn more](https://en.wikipedia.org/wiki/Cat)
 
 ![Remote Image](https://www.pngmart.com/files/1/Cat-PNG-File.png)
 
