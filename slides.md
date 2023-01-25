@@ -49,7 +49,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# What does Cailyn hate?
+# What does Cailyn hate? 
 
 - 📝 **Animals** - Especially cats... also she killed two dogs growing up
 - 🎨 **Fun** - Cailyn hates fun. That's what they call her: Cailyn "Hates Fun" Templeton
